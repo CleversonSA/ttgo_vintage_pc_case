@@ -1,5 +1,7 @@
 # TTGO VINTAGE PC CASE
 
+![alt text](https://github.com/CleversonSA/ttgo_vintage_pc_case/blob/main/VintagePCcase.jpeg?raw=true)
+
 A vintage collectable mini tower desktop PC for TTGO VGA ESP32 board. Specially for FabGL IBM PC Emulator (http://www.fabglib.org/_v_g_a_2_p_c_emulator_2_p_c_emulator_8ino-example.html).
 
 # Inspiration
